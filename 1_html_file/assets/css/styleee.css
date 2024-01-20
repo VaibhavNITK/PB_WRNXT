@@ -19,6 +19,14 @@
 
 /*== Default Css ==*/
 
+.change{
+    color: rgb(88, 86, 86);
+}
+
+.change:hover{
+    color: #16a8aa;
+}
+
 :root {
     --thm-font: "Tajawal", Sans-serif;
     --thm-font-2: "reeyregular";
